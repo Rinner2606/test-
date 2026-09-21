@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-using namespace std;
 
 struct MON {
     char mamon[15];
